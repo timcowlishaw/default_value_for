@@ -11,6 +11,5 @@ Gem::Specification.new do |s|
     'init.rb',
     'lib/default_value_for.rb',
     'lib/default_value_for/railtie.rb',
-    'lib/rails.rb'
   ]
 end
